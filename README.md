@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hiii, I'm Jackie 
 
 <!--
 **Jacqueline207/Jacqueline207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
