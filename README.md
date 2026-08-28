@@ -98,7 +98,7 @@ My fellowship experience has included hands-on work with Python, SQL, machine le
 
 ## Connect With Me
 
-💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jackie-recendez/)
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jackie-recendez/)
 
 ### Currently Exploring
 
